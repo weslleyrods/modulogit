@@ -1,7 +1,1 @@
-Nova linha adicionada
-
-Linha adicionada na branch testte
-
-Nova linha legal
-
-Mais uma linha
+meu primeiro sistema no Git atualizado e alterado
